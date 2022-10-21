@@ -56,7 +56,6 @@ body {
   100% {
     box-shadow: 0 0 20px 20px green;
   }
-  ,
   50% {
     box-shadow: none;
   }
@@ -66,7 +65,6 @@ body {
   100% {
     box-shadow: 0 0 20px 20px yellow;
   }
-  ,
   50% {
     box-shadow: none;
   }
@@ -76,7 +74,6 @@ body {
   100% {
     box-shadow: 0 0 20px 20px blue;
   }
-  ,
   50% {
     box-shadow: none;
   }
@@ -86,7 +83,6 @@ body {
   100% {
     box-shadow: 0 0 20px 20px red;
   }
-  ,
   50% {
     box-shadow: none;
   }
@@ -96,7 +92,6 @@ body {
   100% {
     box-shadow: 0 0 20px 20px purple;
   }
-  ,
   50% {
     box-shadow: none;
   }
@@ -106,7 +101,6 @@ body {
   100% {
     box-shadow: 0 0 20px 20px pink;
   }
-  ,
   50% {
     box-shadow: none;
   }
@@ -116,7 +110,6 @@ body {
   100% {
     box-shadow: 0 0 20px 20px violet;
   }
-  ,
   50% {
     box-shadow: none;
   }
@@ -126,7 +119,6 @@ body {
   100% {
     box-shadow: 0 0 20px 20px aqua;
   }
-  ,
   50% {
     box-shadow: none;
   }
