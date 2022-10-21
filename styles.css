@@ -63,10 +63,10 @@ body {
 @keyframes glow-yellow {
   0%,
   100% {
-    box-shadow: 0 0 20px 20px yellow;
+    box-shadow: none;
   }
   50% {
-    box-shadow: none;
+    box-shadow: 0 0 20px 20px yellow;
   }
 }
 @keyframes glow-blue {
@@ -81,10 +81,10 @@ body {
 @keyframes glow-red {
   0%,
   100% {
-    box-shadow: 0 0 20px 20px red;
+    box-shadow: none;
   }
   50% {
-    box-shadow: none;
+    box-shadow: 0 0 20px 20px red;
   }
 }
 @keyframes glow-purple {
@@ -99,10 +99,10 @@ body {
 @keyframes glow-pink {
   0%,
   100% {
-    box-shadow: 0 0 20px 20px pink;
+    box-shadow: none;
   }
   50% {
-    box-shadow: none;
+    box-shadow: 0 0 20px 20px pink;
   }
 }
 @keyframes glow-violet {
@@ -117,9 +117,9 @@ body {
 @keyframes glow-aqua {
   0%,
   100% {
-    box-shadow: 0 0 20px 20px aqua;
+    box-shadow: none;
   }
   50% {
-    box-shadow: none;
+    box-shadow: 0 0 20px 20px aqua;
   }
 }
