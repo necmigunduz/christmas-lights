@@ -10,30 +10,19 @@
 
 - [Project Link](https://venerable-torte-991c0b.netlify.app/)
 
-## Main Features
-
-- A proper authentication system has been implemented using JWT.
-- Users can sign up and sign in to the app.
-- User can see list of cabins listed.
-- User can see details of cabins and they can add them to their favourites.
-- User can add, update and delete their favourites.
-
-## API
-
-- The backend API for this project can be found [here](https://github.com/SamArsanios/cabin-quest-api).
-
 ## Built with
 
-- React
-- Redux
+- HTML,
+- CSS,
+- Javascript.
 
 ## Getting Started
 
-- Clone the repo `https://github.com/necmigunduz/christmas-lights.git`
-- cd `into` the project
-- Run `npm install` to install dependencies
+- Clone the repo `https://github.com/necmigunduz/christmas-lights.git`,
+- cd `into` the project,
+- Open index.html with an explorer.
 
-## Author
+## Authors
 
 👤 **Samson Kibrom**
 
