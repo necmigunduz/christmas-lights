@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-- [Project Link](https://cabinquest.herokuapp.com/)
+- [Project Link](https://venerable-torte-991c0b.netlify.app/)
 
 ## Main Features
 
