@@ -1,9 +1,13 @@
+body{
+    background: rgb(25, 21, 26);
+}
+
 .circle {
     width: 0.5em;
     height: 0.5em;
-    border: 1px solid black;
+    border: 1px solid none;
     border-radius:50%;
-    padding: 25px;
+    padding: 25px
 }
 
 .main {
