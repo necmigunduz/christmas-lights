@@ -1,12 +1,10 @@
-
 # Christmas Lights
 
-- This is a project that includes christmas lights to your web application. 
+- This is a project that includes christmas lights to your web application.
 
- ### Main page
+### Main page
 
-![Photo](src/assets/images/screenshot-2.png)
-
+![Photo](https://github.com/necmigunduz/christmas-lights/blob/lights-branch/assets/screenshot.png)
 
 ## Live Demo
 
@@ -29,13 +27,11 @@
 - React
 - Redux
 
-
 ## Getting Started
 
 - Clone the repo `https://github.com/necmigunduz/christmas-lights.git`
 - cd `into` the project
 - Run `npm install` to install dependencies
-
 
 ## Author
 
@@ -69,4 +65,5 @@ Give a ⭐️ if you like this project!
 - [Alexey Savitskiy](https://www.behance.net/alexey_savitskiy)
 
 ## 📝 License
+
 MIT License
