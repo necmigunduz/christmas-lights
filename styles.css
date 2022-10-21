@@ -1,0 +1,139 @@
+body {
+  background: rgb(25, 21, 26);
+  display: flex;
+  flex-direction: column;
+}
+
+.circle {
+  width: 0.5em;
+  height: 0.5em;
+  border: 1px solid none;
+  border-radius: 50%;
+  padding: 25px;
+}
+
+.main {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+.utilities {
+  margin: auto;
+}
+.speed {
+  color: white;
+}
+.title {
+  color: white;
+  font-size: 40px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.green {
+  background-color: rgb(0, 182, 0);
+  animation: glow-green 1s infinite;
+}
+
+.yellow {
+  background-color: yellow;
+  animation: glow-yellow 1s infinite;
+}
+
+.blue {
+  background-color: blue;
+  animation: glow-blue 1s infinite;
+}
+.red {
+  background-color: #c0392b;
+  animation: glow-red 1s infinite;
+}
+.purple {
+  background-color: purple;
+  animation: glow-purple 1s infinite;
+}
+.pink {
+  background-color: pink;
+  animation: glow-pink 1s infinite;
+}
+.violet {
+  background-color: violet;
+  animation: glow-violet 1s infinite;
+}
+.aqua {
+  background-color: aqua;
+  animation: glow-aqua 1s infinite;
+}
+
+@keyframes glow-green {
+  0%,
+  100% {
+    box-shadow: 0 0 20px 20px green;
+  }
+  50% {
+    box-shadow: none;
+  }
+}
+@keyframes glow-yellow {
+  0%,
+  100% {
+    box-shadow: none;
+  }
+  50% {
+    box-shadow: 0 0 20px 20px yellow;
+  }
+}
+@keyframes glow-blue {
+  0%,
+  100% {
+    box-shadow: 0 0 20px 20px blue;
+  }
+  50% {
+    box-shadow: none;
+  }
+}
+@keyframes glow-red {
+  0%,
+  100% {
+    box-shadow: none;
+  }
+  50% {
+    box-shadow: 0 0 20px 20px red;
+  }
+}
+@keyframes glow-purple {
+  0%,
+  100% {
+    box-shadow: 0 0 20px 20px purple;
+  }
+  50% {
+    box-shadow: none;
+  }
+}
+@keyframes glow-pink {
+  0%,
+  100% {
+    box-shadow: none;
+  }
+  50% {
+    box-shadow: 0 0 20px 20px pink;
+  }
+}
+@keyframes glow-violet {
+  0%,
+  100% {
+    box-shadow: 0 0 20px 20px violet;
+  }
+  50% {
+    box-shadow: none;
+  }
+}
+@keyframes glow-aqua {
+  0%,
+  100% {
+    box-shadow: none;
+  }
+  50% {
+    box-shadow: 0 0 20px 20px aqua;
+  }
+}
