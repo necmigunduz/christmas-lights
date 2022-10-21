@@ -1,6 +1,7 @@
 const circle = document.getElementsByClassName('circle');
 const play = document.getElementById('play');
 const stop = document.getElementById('stop');
+const submit = document.getElementById('submit');
 
 var len = circle.length;
 
@@ -22,3 +23,12 @@ const off = function() {
 
 play.addEventListener('click', on);
 stop.addEventListener('click', off);
+
+const convert = function() {
+    var speed = document.getElementById('quantity').value;
+    for(let i=0;i<len;i++){
+        circle[i].style.animationDuration = (6-speed) + 's';
+    };
+}
+
+submit.addEventListener("click",convert)
