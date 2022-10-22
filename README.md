@@ -20,7 +20,7 @@
 
 - Clone the repo `https://github.com/necmigunduz/christmas-lights.git`,
 - cd `into` the project,
-- Open index.html with an explorer.
+- Open index.html with any web browser or run the Liveserver from VSCode.
 
 ## Authors
 
@@ -49,9 +49,6 @@ Give a ⭐️ if you like this project!
 
 ## 👏 Acknowledgements
 
-- [Microverse](issues/)
-- All the images of cabins used in this app are taken from [pexels](https://www.pexels.com/) and belong to the respective owners.
-- [Alexey Savitskiy](https://www.behance.net/alexey_savitskiy)
 
 ## 📝 License
 
