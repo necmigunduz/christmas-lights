@@ -8,32 +8,21 @@
 
 ## Live Demo
 
-- [Project Link](https://cabinquest.herokuapp.com/)
-
-## Main Features
-
-- A proper authentication system has been implemented using JWT.
-- Users can sign up and sign in to the app.
-- User can see list of cabins listed.
-- User can see details of cabins and they can add them to their favourites.
-- User can add, update and delete their favourites.
-
-## API
-
-- The backend API for this project can be found [here](https://github.com/SamArsanios/cabin-quest-api).
+- [Project Link](https://venerable-torte-991c0b.netlify.app/)
 
 ## Built with
 
-- React
-- Redux
+- HTML,
+- CSS,
+- Javascript.
 
 ## Getting Started
 
-- Clone the repo `https://github.com/necmigunduz/christmas-lights.git`
-- cd `into` the project
-- Run `npm install` to install dependencies
+- Clone the repo `https://github.com/necmigunduz/christmas-lights.git`,
+- cd `into` the project,
+- Open index.html with any web browser or run the Liveserver from VSCode.
 
-## Author
+## Authors
 
 👤 **Samson Kibrom**
 
@@ -60,9 +49,6 @@ Give a ⭐️ if you like this project!
 
 ## 👏 Acknowledgements
 
-- [Microverse](issues/)
-- All the images of cabins used in this app are taken from [pexels](https://www.pexels.com/) and belong to the respective owners.
-- [Alexey Savitskiy](https://www.behance.net/alexey_savitskiy)
 
 ## 📝 License
 
