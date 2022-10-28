@@ -18,8 +18,8 @@
 
 ## Getting Started
 
-- Clone the repo `https://github.com/necmigunduz/christmas-lights.git`,
-- cd `into` the project,
+- Clone the repo `https://github.com/necmigunduz/christmas-lights.git`.
+- cd `into` the project.
 - Open index.html with any web browser or run the Liveserver from VSCode.
 
 ## Authors
