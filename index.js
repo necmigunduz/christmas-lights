@@ -18,6 +18,7 @@ const on = function () {
     circle[i].style.WebkitAnimationPlayState = "running";
   }
 };
+
 const off = function () {
   title.style.animation = "none";
 
@@ -33,6 +34,7 @@ const convert = function () {
     circle[i].style.animationDuration = 11 - speed + "s";
   }
 };
+
 submit.addEventListener("click", convert);
 play.addEventListener("click", on);
 stop.addEventListener("click", off);
