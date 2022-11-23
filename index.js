@@ -4,7 +4,7 @@ const stop = document.getElementById("stop");
 const submit = document.getElementById("submit");
 const title = document.getElementById("title");
 
-console.log(title);
+// console.log(title);
 
 var len = circle.length;
 
